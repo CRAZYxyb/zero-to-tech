@@ -1,0 +1,23 @@
+[
+  {
+    "text": "今天的风很轻，适合把脑海里的想法慢慢写下来。",
+    "score": 1.0,
+    "label": "偏积极",
+    "pinyin": "jīn tiān de fēng hěn qīng ， shì hé bǎ nǎo hǎi lǐ de xiǎng fǎ màn màn xiě xià lái 。",
+    "created_at": "2026-10-10T07:03:20+00:00"
+  },
+  {
+    "text": "这个电影很好看",
+    "score": 0.94,
+    "label": "偏积极",
+    "pinyin": "zhè ge diàn yǐng hěn hǎo kàn",
+    "created_at": "2026-10-10T07:03:36+00:00"
+  },
+  {
+    "text": "这游戏不好玩",
+    "score": 0.82,
+    "label": "偏积极",
+    "pinyin": "zhè yóu xì bù hǎo wán",
+    "created_at": "2026-10-10T07:03:47+00:00"
+  }
+]
